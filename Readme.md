@@ -1,5 +1,5 @@
 ###  Parallax practice
-
+ Visit [!project](https://magnificent-mermaid-737575.netlify.app/)
 ## Table of contents
 
 - [Overview](#overview)
